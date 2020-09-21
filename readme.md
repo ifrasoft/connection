@@ -2,7 +2,7 @@
 
 ### Example
 
-```
+```go
 package main
 
 import (
@@ -29,7 +29,8 @@ func main() {
 
 ```
 Result
-```
+
+```console
 www.google.com 80 OK
 www.google.com 443 OK
 www.google.com 21 FAIL
